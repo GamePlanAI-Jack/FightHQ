@@ -1,0 +1,35 @@
+{
+  "name": "matiq-app",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "tailwind-init": "tailwindcss init"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "@tailwindcss/postcss": "^4.1.7",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "autoprefixer": "^10.4.21",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "file-saver": "^2.0.5",
+    "postcss": "^8.5.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.5.2",
+    "react-router-dom": "^7.6.0",
+    "recharts": "^2.15.3",
+    "tailwind-merge": "^3.3.0",
+    "tailwindcss": "^4.1.7"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@types/recharts": "^1.8.29",
+    "@vitejs/plugin-react": "^4.4.1",
+    "typescript": "^5.0.0",
+    "vite": "^6.3.5"
+  }
+}
